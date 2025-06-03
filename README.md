@@ -4,14 +4,14 @@ A practice project while learning Unity 2D. A game where the driver delivers all
 ## Layout
 ![layout](./screenshot.png "Layout")
 
-Car: Player  
-Purple squares: Packages to deliver  
-Yellow square: Customer to receive the packages  
-Green circle: Speed boost
+**Car**: Player  
+**Purple squares**: Packages to deliver  
+**Yellow square**: Customer to receive the packages  
+**Green circle**: Speed boost
 
 ## Commands
-Move: Up / Down arrow keys  
-Turn: Left / Right arrow keys
+**Move**: Up / Down arrow keys  
+**Turn**: Left / Right arrow keys
 
 ## Rules
 The player needs to control the car to pick up all the packages and deliver to the customer.  
